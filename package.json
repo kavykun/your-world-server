@@ -16,7 +16,7 @@
     "graphql-yoga": "1.14.12",
     "jsonwebtoken": "8.3.0",
     "prisma-binding": "2.1.1",
-    "graphql-cli": "2.16.4"
+    "graphql-cli": "2.16.5"
   },
   "devDependencies": {
     "dotenv": "6.0.0",    
